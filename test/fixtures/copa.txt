@@ -1,0 +1,25 @@
+= Sample Copa 2024 =
+
+Group A
+
+Matchday 1
+
+(1) Fri Jun/14 20:00  Argentina  2-0  Canada  @ MetLife Stadium
+(2) Fri Jun/14 22:00  Peru  0-1  Chile  @ AT&T Stadium
+
+Matchday 2
+
+(3) Tue Jun/18 20:00  Canada  1-1  Peru  @ MetLife Stadium
+(4) Tue Jun/18 22:00  Chile  2-2  Argentina  @ AT&T Stadium
+
+Quarter-finals
+
+(5) Sat Jun/29 21:00  Argentina  1-1 a.e.t.  Chile  @ Levi's Stadium
+
+Third place play-off
+
+(6) Sat Jul/13 18:00  Peru  1-1  Canada  @ Hard Rock Stadium
+
+Final
+
+(7) Sun Jul/14 21:00  Argentina  4-2 pen. (1-1)  Chile  @ Hard Rock Stadium

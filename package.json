@@ -1,0 +1,57 @@
+{
+    "name": "@yetric/football-txt-parser",
+    "version": "0.1.0",
+    "description": "TypeScript parser for the openfootball Football.TXT format.",
+    "license": "MIT",
+    "author": "Yetric",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/yetric/football-txt-parser.git"
+    },
+    "homepage": "https://github.com/yetric/football-txt-parser",
+    "bugs": "https://github.com/yetric/football-txt-parser/issues",
+    "keywords": [
+        "football",
+        "soccer",
+        "openfootball",
+        "parser",
+        "sports-data"
+    ],
+    "main": "./dist/index.js",
+    "module": "./dist/index.js",
+    "types": "./dist/index.d.ts",
+    "exports": {
+        ".": {
+            "import": "./dist/index.js",
+            "types": "./dist/index.d.ts"
+        }
+    },
+    "files": [
+        "dist"
+    ],
+    "type": "module",
+    "engines": {
+        "node": ">=24.18"
+    },
+    "scripts": {
+        "build": "tsup",
+        "dev": "tsup --watch",
+        "test": "vitest run",
+        "test:watch": "vitest",
+        "typecheck": "tsc --noEmit",
+        "lint": "eslint src test",
+        "lint:fix": "eslint src test --fix",
+        "format": "prettier --write \"**/*.{ts,md,json}\"",
+        "format:check": "prettier --check \"**/*.{ts,md,json}\""
+    },
+    "devDependencies": {
+        "@eslint/js": "^10.0.1",
+        "@types/node": "^24.13.3",
+        "eslint": "^10.7.0",
+        "prettier": "^3.9.6",
+        "tsup": "^8.5.1",
+        "typescript": "^6.0.3",
+        "typescript-eslint": "^8.65.0",
+        "vitest": "^4.1.10"
+    }
+}
